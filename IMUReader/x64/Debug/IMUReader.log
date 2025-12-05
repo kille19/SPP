@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Program Files\Xsens\MT Software Suite 2025.2\MT SDK\x64\include\xstypes\xsstringstreaming.h(89,2): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Xsens\MT Software Suite 2025.2\MT SDK\x64\include\xstypes\xsstringstreaming.h(98,2): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'main.cpp')
+  
+  XsensReader.cpp
+  Generating Code...

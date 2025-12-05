@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="IMUReader.vcxproj" Id="98753242-e016-4c99-a882-3a095495ee32" />
+</Solution>
